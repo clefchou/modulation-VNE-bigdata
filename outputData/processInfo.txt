@@ -1,0 +1,8 @@
+lamda 2.00: demand NO.300 proccess
+
+ILP:
+	block: 229
+	success 72
+	time 1365.500426
+	weight 3200.000000
+
